@@ -2,21 +2,21 @@
   "development": {
     "username": "postgres",
     "password": "Tdadon96",
-    "database": "express_auth_dev",
+    "database": "NBA_players",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
     "password": "Tdadon96",
-    "database": "express_auth_test",
+    "database": "NBA_players_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
     "password": "Tdadon96",
-    "database": "express_auth_production",
+    "database": "NBA_players_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
